@@ -1,4 +1,4 @@
-package chap02.sec03;
+package chap02.sec02.exam03;
 
 // long 타입 변수
 public class LongExample {
